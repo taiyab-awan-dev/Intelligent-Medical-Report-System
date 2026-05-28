@@ -1,7 +1,7 @@
 # fyp-oneplace
 how to run:
 
-1: install xamp
+1: install xamp/n
 3: add xamp/php in enviornment variables
 2: install vs code
 3: unzip and open folder in vs code
