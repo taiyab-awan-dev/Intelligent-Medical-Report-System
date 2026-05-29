@@ -1,5 +1,8 @@
-# fyp-oneplace
-how to run:
+# Intelligent Medical Report System
+
+A full-stack healthcare web application developed using Laravel, PHP, MySQL, JavaScript, and Python-based recommendation algorithms. The system helps manage patient records securely while providing disease and medical test recommendations through integrated predictive functionality.
+
+**how to run:**
 
 1: install xamp
 
