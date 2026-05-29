@@ -57,3 +57,19 @@ Open the link in browser
 
 ### Add Receptionist In System
 ![Add Resceptionist in System](screenshots/add-receptionist-in-system.png)
+
+### Updating Receptionist Details
+![Updating Receptionist Details](screenshots/updating-receptionist-details.png)
+
+### Adding Patient in The System
+![Adding Patient in The System](screenshots/adding-patient-in-the-system.png)
+
+### Appointment Screem
+![Appointment Screem](screenshots/appointment-screen.png)
+
+### Test Recommendation Screen
+![Test Recommendation Screen](screenshots/test-recommendation-screen.png)
+
+### Prescription Adding Screen
+![Prescription Adding Screen](screenshots/prescrition-adding--screen.png)
+
