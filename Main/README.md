@@ -50,7 +50,7 @@ Open the link in browser
 ![Login Sceen](screenshots/login-screen.png)
 
 ### Account Creating Screen
-![Dashboard](screenshots/account-creating-screen.png)
+![Account Creating Screen](screenshots/Account-Creating-Screen.png)
 
 ### Add Staff Details
 ![Add Staff Details](screenshots/add-staff-details.png)
