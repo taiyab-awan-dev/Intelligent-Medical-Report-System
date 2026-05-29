@@ -2,6 +2,10 @@
 
 A full-stack healthcare web application developed using Laravel, PHP, MySQL, JavaScript, and Python-based recommendation algorithms. The system helps manage patient records securely while providing disease and medical test recommendations through integrated predictive functionality.
 
+## Architecture
+
+The application follows the MVC (Model-View-Controller) architecture using the Laravel framework. MySQL is used for relational database management, while Python algorithms are integrated for disease and test recommendation functionality.
+
 **how to run:**
 
 1: install xamp
