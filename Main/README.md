@@ -47,7 +47,7 @@ Open the link in browser
 ## Screenshots
 
 ### Login Screen
-![Login Sceen](main/screenshots/Login-Screen.png)
+![Login Sceen](screenshots/Login-Screen.png)
 
 ### Account Creating Screen
 ![Account Creating Screen](screenshots/Account-Creating-Screen.png)
