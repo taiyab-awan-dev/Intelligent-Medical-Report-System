@@ -16,30 +16,30 @@ The application follows the MVC (Model-View-Controller) architecture using the L
 - MVC architecture implementation
 - Responsive web interface
 
-## how to run:
+## How to run:
 
-1: install xamp
+1: Install xamp
 
-2: add xamp/php in enviornment variables
+2: Add xamp/php in enviornment variables
 
-3: install vs code
+3: Install vs code
 
-4: unzip and open folder in vs code
+4: Unzip and open folder in vs code
 
 -- move to the laravel project / Main folder
 
-5: in xamp run apache and mySQL service
+5: In xamp run apache and mySQL service
 
-6: open phpmyadmin through xamp
+6: Open phpmyadmin through xamp
 
-7: create database of name "lvfyp"
+7: Create database of name "lvfyp"
 
-8: in termianl of vs code run commmand: php artisan migrate
+8: In termianl of vs code run commmand: php artisan migrate
 
-9: open php my admin in web and go to users table in lvfyp table.. and create a user manually with type == 0
+9: Open php my admin in web and go to users table in lvfyp table.. and create a user manually with type == 0
 
 which represents the admin as thr can only be one admin and admin controls the rest of staff.
 
-10: run commmand: php artisan serve
+10: Run commmand: php artisan serve
 
-open the link in browser 
+Open the link in browser 
