@@ -43,3 +43,17 @@ which represents the admin as thr can only be one admin and admin controls the r
 10: Run commmand: php artisan serve
 
 Open the link in browser 
+
+## Screenshots
+
+### Login Screen
+![Login Sceen](screenshots/login-screen.png)
+
+### Account Creating Screen
+![Dashboard](screenshots/account-creating-screen.png)
+
+### Add Staff Details
+![Add Staff Details](screenshots/add-staff-details.png)
+
+### Add Receptionist In System
+![Add Resceptionist in System](screenshots/add-receptionist-in-system.png)
