@@ -68,7 +68,7 @@ Open the link in browser
 ![Appointment Screem](Screenshots/Appointment-Screen.png)
 
 ### Test Recommendation Screen
-![Test Recommendation Screen](Screenshots/test-recommendation-screen.png)
+![Test Recommendation Screen](Screenshots/Test-Recommendation-Screen.png)
 
 ### Prescription Adding Screen
 ![Prescription Adding Screen](Screenshots/prescrition-adding--screen.png)
