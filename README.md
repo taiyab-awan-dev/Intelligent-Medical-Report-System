@@ -65,7 +65,7 @@ Open the link in browser
 ![Adding Patient in The System](Screenshots/Adding-patient-in-the-system.png)
 
 ### Appointment Screem
-![Appointment Screem](Screenshots/appointment-screen.png)
+![Appointment Screem](Screenshots/Appointment-Screen.png)
 
 ### Test Recommendation Screen
 ![Test Recommendation Screen](Screenshots/test-recommendation-screen.png)
