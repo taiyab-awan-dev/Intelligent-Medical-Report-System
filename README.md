@@ -53,7 +53,7 @@ Open the link in browser
 ![Account Creating Screen](Screenshots/Account-Creating-Screen.png)
 
 ### Add Staff Details
-![Add Staff Details](Screenshots/add-staff-details.png)
+![Add Staff Details](Screenshots/Add-Staff-Details.png)
 
 ### Add Receptionist In System
 ![Add Resceptionist in System](Screenshots/add-receptionist-in-system.png)
