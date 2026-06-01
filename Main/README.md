@@ -47,7 +47,7 @@ Open the link in browser
 ## Screenshots
 
 ### Login Screen
-![Login Sceen](Screenshots/Login-Screen.png)
+![Login Sceen](Intelligent-Medical-Report-System/Screenshots/Login-Screen.png)
 
 ### Account Creating Screen
 ![Account Creating Screen](Screenshots/Account-Creating-Screen.png)
