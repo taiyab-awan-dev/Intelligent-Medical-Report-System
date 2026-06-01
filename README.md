@@ -47,29 +47,29 @@ Open the link in browser
 ## Screenshots
 
 ### Login Screen
-![Login Sceen](../Screenshots/Login-Screen.png)
+![Login Sceen](Screenshots/Login-Screen.png)
 
 ### Account Creating Screen
 ![Account Creating Screen](Screenshots/Account-Creating-Screen.png)
 
 ### Add Staff Details
-![Add Staff Details](screenshots/add-staff-details.png)
+![Add Staff Details](Screenshots/add-staff-details.png)
 
 ### Add Receptionist In System
-![Add Resceptionist in System](screenshots/add-receptionist-in-system.png)
+![Add Resceptionist in System](Screenshots/add-receptionist-in-system.png)
 
 ### Updating Receptionist Details
-![Updating Receptionist Details](screenshots/updating-receptionist-details.png)
+![Updating Receptionist Details](Screenshots/updating-receptionist-details.png)
 
 ### Adding Patient in The System
-![Adding Patient in The System](screenshots/adding-patient-in-the-system.png)
+![Adding Patient in The System](Screenshots/adding-patient-in-the-system.png)
 
 ### Appointment Screem
-![Appointment Screem](screenshots/appointment-screen.png)
+![Appointment Screem](Screenshots/appointment-screen.png)
 
 ### Test Recommendation Screen
-![Test Recommendation Screen](screenshots/test-recommendation-screen.png)
+![Test Recommendation Screen](Screenshots/test-recommendation-screen.png)
 
 ### Prescription Adding Screen
-![Prescription Adding Screen](screenshots/prescrition-adding--screen.png)
+![Prescription Adding Screen](Screenshots/prescrition-adding--screen.png)
 
