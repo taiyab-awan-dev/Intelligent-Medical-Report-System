@@ -71,5 +71,5 @@ Open the link in browser
 ![Test Recommendation Screen](Screenshots/Test-Recommendation-Screen.png)
 
 ### Prescription Adding Screen
-![Prescription Adding Screen](Screenshots/prescrition-adding--screen.png)
+![Prescription Adding Screen](Screenshots/Prescription-Adding-Screen.png)
 
