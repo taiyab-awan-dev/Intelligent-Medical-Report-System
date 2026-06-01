@@ -59,7 +59,7 @@ Open the link in browser
 ![Add Resceptionist in System](Screenshots/Add-Receptionist-in-System.png)
 
 ### Updating Receptionist Details
-![Updating Receptionist Details](Screenshots/updating-receptionist-details.png)
+![Updating Receptionist Details](Screenshots/Updating-Receptionist-Details.png)
 
 ### Adding Patient in The System
 ![Adding Patient in The System](Screenshots/adding-patient-in-the-system.png)
