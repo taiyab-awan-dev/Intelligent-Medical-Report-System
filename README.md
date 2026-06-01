@@ -56,7 +56,7 @@ Open the link in browser
 ![Add Staff Details](Screenshots/Add-Staff-Details.png)
 
 ### Add Receptionist In System
-![Add Resceptionist in System](Screenshots/add-receptionist-in-system.png)
+![Add Resceptionist in System](Screenshots/Add-Receptionist-in-System.png)
 
 ### Updating Receptionist Details
 ![Updating Receptionist Details](Screenshots/updating-receptionist-details.png)
